@@ -11,3 +11,8 @@ Don't use for spamming or illegal activites with anyone. You are only responsibl
 <br>
 <b>Download Chrome Driver.</b><br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;You can download chrome driver from https://googlechromelabs.github.io/chrome-for-testing/
+<hr>
+Steps : <br>
+1. Create a folder for store webdriver data.<br>
+    We created a folder - "D:\chromdata"<br>
+2.
