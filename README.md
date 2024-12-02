@@ -14,5 +14,5 @@ Don't use for spamming or illegal activites with anyone. You are only responsibl
 <hr>
 Steps : <br>
 1. Create a folder for store webdriver data.<br>
-    We created a folder - "D:\chromdata"<br>
+&nbsp;&nbsp;&nbsp;We created a folder named chromdata in D Drive like - <b>"D:\chromdata"</b><br>
 2.
