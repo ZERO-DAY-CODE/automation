@@ -1,5 +1,5 @@
 # Whatsapp Automation using Python.
-Web Automation Using Selenium In Python Langauge.
+Web Automation Using Selenium (Web Driver) In Python.
 <br>
 Langauge - <b>Python</b>
 <br>
