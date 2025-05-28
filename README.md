@@ -17,7 +17,7 @@ Don't use for spamming or illegal activites with anyone. You are only responsibl
 <hr>
 Steps : <br>
 1. Create a folder for store webdriver data.<br>
-&nbsp;&nbsp;&nbsp;&nbsp&nbsp;We created a folder named chromdata in D Drive like - <b>"D:\chromdata"</b><br>
+&nbsp;&nbsp;&nbsp;&nbsp&nbsp;I created a folder named chromdata in D Drive like - <b>"D:\chromdata"</b><br>
 2. Open your command prompt and go on.![cmd1](https://github.com/user-attachments/assets/57f9926f-4c5d-40be-9f88-102b48354938)
 
 
